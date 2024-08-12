@@ -9,7 +9,9 @@
     "observable": "observable"
   },
   "dependencies": {
-    "@observablehq/framework": "^1.6.0"
+    "@observablehq/framework": "^1.6.0",
+    "@tidyjs/tidy": "^2.5.2",
+    "data-driven-range-slider": "^1.0.1"
   },
   "devDependencies": {
     "rimraf": "^5.0.5"
