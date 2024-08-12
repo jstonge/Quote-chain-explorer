@@ -1,11 +1,13 @@
+
+# Quote Chain Explorer
+
 ```js
 import {treeChart} from "./components/tree.js"
+
 import { tidy, map, addRows, tally, filter, select, mutate, leftJoin,
         arrange, desc, distinct, rename, count, sum, max, groupBy, 
         mutateWithSummary,pivotLonger, pivotWider, summarize, sliceHead} from '@tidyjs/tidy'
 ```
-
-# Quote Chain Explorer
 
 ### Select part
 
